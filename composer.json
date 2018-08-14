@@ -8,8 +8,8 @@
     "extra": {
         "component": {
             "files": [
-                'css/responsive-tabs.css',
-                'css/style.css'
+                "css/responsive-tabs.css",
+                "css/style.css"
             ],
             "scripts": [
                 "js/jquery.responsiveTabs.min.js"
