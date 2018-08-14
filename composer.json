@@ -1,0 +1,19 @@
+{
+    "name": "taalendigitaal/responsive-tabs",
+    "description": "jQuery plugin that provides responsive tab functionality. The tabs transform to an accordion when it reaches a CSS breakpoint.",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                'css/responsive-tabs.css',
+                'css/style.css'
+            ],
+            "scripts": [
+                "js/jquery.responsiveTabs.min.js"
+            ]
+        }
+    }
+}
